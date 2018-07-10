@@ -13,6 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "netlify-cms-bitbucket": "^1.1.0-alpha.0",
     "nuxt": "^1.0.0",
     "pug": "^2.0.3",
     "pug-loader": "^2.4.0",
