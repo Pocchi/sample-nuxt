@@ -21,10 +21,8 @@ module.exports = {
   ** Build configuration
   */
   css: [
-    '@/node_modules/netlify-cms-bitbucket/dist/cms.css'
   ],
   plugins: [
-    '@/plugins/netlify-cms'
   ],
   build: {
     /*
